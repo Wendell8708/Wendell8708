@@ -25,7 +25,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wendell-Junior&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Junior&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wendell-junior&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendell-junior&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs"/>
 </p>
 
+---
+
+### 🧠 Fun Fact
+💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
