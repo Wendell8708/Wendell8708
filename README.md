@@ -31,5 +31,12 @@
 
 ---
 
+### 🔥 GitHub Streak Stats
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=wendell-junior&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
 ### 🧠 Fun Fact
 💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
